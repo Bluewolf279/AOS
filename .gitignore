@@ -8,3 +8,7 @@ logs/fml-client-latest.log
 logs/fml-client-latest.log
 *.log
 logs/fml-client-latest.log
+saves/Test World/session.lock
+*.dat
+saves/Test World/level.dat_old
+saves/Test World/session.lock
