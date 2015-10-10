@@ -12,6 +12,7 @@ public final class ItemRenderRegister {
 	
 	public static void registerItemRenderer() {
 		reg(ModItems.tutorialItem);
+		reg(ModItems.Poison_Arrow);
 	}
 	
 	public static void reg(Item item) {
