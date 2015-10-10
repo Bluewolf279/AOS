@@ -12,3 +12,7 @@ saves/Test World/session.lock
 *.dat
 saves/Test World/level.dat_old
 saves/Test World/session.lock
+logs/fml-client-latest.log
+*.log
+dir_to_ignore/saves
+dir_to_ignore/logs
