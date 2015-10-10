@@ -1,3 +1,10 @@
 /bin/
 
 .settings/org.eclipse.jdt.core.prefs
+logs/2015-10-10-1.log.gz
+*.gz
+logs/fml-client-latest.log
+logs/fml-client-latest.log
+logs/fml-client-latest.log
+*.log
+logs/fml-client-latest.log

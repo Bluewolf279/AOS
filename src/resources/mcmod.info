@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AOS",
+  "name": "AOS Mod",
+  "description": "Adds stuff!!",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bluewolf279", "Extr3me"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
