@@ -1,11 +1,40 @@
-[16:55:03] [main/INFO]: Logging in with username & password
-[16:55:12] [Client thread/INFO]: Setting user: Bluewolf279
-[16:55:15] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:55:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AOS Mod, FMLFileResourcePack:Example Mod
-[16:55:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AOS/ in C:\Users\Matt\workspace\AOS\bin
-[16:55:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:55:22] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[16:55:22] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:55:22] [Thread-9/INFO]: OpenAL initialized.
-[16:55:22] [Sound Library Loader/INFO]: Sound engine started
-[16:55:27] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:02:33] [main/INFO]: Logging in with username & password
+[19:02:39] [Client thread/INFO]: Setting user: Bluewolf279
+[19:02:42] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:02:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AOS, FMLFileResourcePack:Example Mod
+[19:02:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:02:46] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[19:02:46] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:02:46] [Thread-9/INFO]: OpenAL initialized.
+[19:02:47] [Sound Library Loader/INFO]: Sound engine started
+[19:02:49] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:02:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AOS, FMLFileResourcePack:Example Mod
+[19:02:51] [Client thread/INFO]: SoundSystem shutting down...
+[19:02:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:02:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:02:51] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[19:02:51] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:02:51] [Thread-11/INFO]: OpenAL initialized.
+[19:02:51] [Sound Library Loader/INFO]: Sound engine started
+[19:02:53] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:02:59] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[19:02:59] [Server thread/INFO]: Generating keypair
+[19:03:00] [Server thread/INFO]: Preparing start region for level 0
+[19:03:01] [Server thread/INFO]: Preparing spawn area: 82%
+[19:03:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:03:03] [Server thread/INFO]: Bluewolf279[local:E:f4f01358] logged in with entity id 314 at (183.20611354078, 70.0, 121.33315363089132)
+[19:03:03] [Server thread/INFO]: Bluewolf279 joined the game
+[19:04:10] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[19:04:15] [Server thread/INFO]: Saving and pausing game...
+[19:04:15] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[19:04:15] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[19:04:15] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[19:04:16] [Server thread/INFO]: Stopping server
+[19:04:16] [Server thread/INFO]: Saving players
+[19:04:16] [Server thread/INFO]: Saving worlds
+[19:04:16] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[19:04:16] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[19:04:16] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[19:04:18] [Client thread/INFO]: Stopping!
+[19:04:18] [Client thread/INFO]: SoundSystem shutting down...
+[19:04:18] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
