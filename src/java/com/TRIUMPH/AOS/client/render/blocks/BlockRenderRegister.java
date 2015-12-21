@@ -14,10 +14,16 @@ public class BlockRenderRegister {
 	
 	public static String modid = Main.MODID;
 	public static void registerBlockRenderer() {
-		register(ModBlocks.GreenStone);
+		registerBasic(ModBlocks.BlueGlass);
+		registerBasic(ModBlocks.EnderNuggetOre);
+		registerBasic(ModBlocks.GreenStone);
+		registerBasic(ModBlocks.smGreenstone);
+		registerBasic(ModBlocks.roughGreenstone);
+		registerBasic(ModBlocks.EnderGreenGlass);
+		registerBasic(ModBlocks.GreenStone_Brick);
 	}
 	
-	public static void register(Block block) {
+	public static void registerBasic(Block block) {
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(block), 0, new ModelResourceLocation(modid + ":" + block.getUnlocalizedName().substring(5), "inventory"));
 
 	}

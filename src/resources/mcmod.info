@@ -9,8 +9,8 @@
   "updateUrl": "",
   "authorList": ["Bluewolf279", "roadkill919"],
   "credits": "FML",
-  "logoFile": "/AOSLogo3.png",
+  "logoFile": "/aos/AOSLogo3.png",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["forge-1.8-11.14.3.1450"]
 }
 ]
