@@ -10,6 +10,7 @@ public class ItemModPickaxe extends ItemPickaxe{
     public ItemModPickaxe(String unlocalisedName, ToolMaterial Material){
         super(Material);
         this.setUnlocalizedName(unlocalisedName);
+        this.setCreativeTab(ModItems.AOStab);
 
     }
 }

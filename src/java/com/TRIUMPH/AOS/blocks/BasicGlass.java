@@ -2,6 +2,7 @@ package com.TRIUMPH.AOS.blocks;
 
 import java.util.Random;
 
+import com.TRIUMPH.AOS.items.ModItems;
 import net.minecraft.block.BlockGlass;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
@@ -12,7 +13,7 @@ public class BasicGlass extends BlockGlass {
 	public BasicGlass(String unlocalizedName, Material material, float hardness, float resistance) {
 		super(material, ignoreSimilarity);
 		this.setUnlocalizedName(unlocalizedName);
-		this.setCreativeTab(CreativeTabs.tabBlock);
+		this.setCreativeTab(ModItems.AOStab);
 		this.setHardness(hardness);
 		this.setResistance(resistance);
 		this.setLightOpacity(1);
@@ -25,7 +26,7 @@ public class BasicGlass extends BlockGlass {
 	public BasicGlass(String unlocalizedName, float hardness, float resistance) {
 		this(unlocalizedName, Material.rock, hardness, resistance);
 	}
-	
+
 	public BasicGlass(String unlocalizedName) {
 		this(unlocalizedName, 1.0f, 10.0f);
 	}

@@ -15,6 +15,10 @@ tile.GreenStone_Brick.name=Green Stone Brick
 
 item.tutorial_item.name=Test Item
 item.Poison Arrow.name=Poison Arrow
-item.Ender_nugget.name =Ender Nugget
-item.Ender_crystalSword.name =Ender Crystal Sword
-item.Ender_crystal.name =Ender Crystal
+item.Ender_nugget.name=Ender Nugget
+item.Ender_crystalSword.name=Ender Crystal Sword
+item.Ender_crystal.name=Ender Crystal
+item.Ender_CrystalPickaxe.name=Ender Crystal Pickaxe
+
+
+itemGroup.AOS=AOS!
