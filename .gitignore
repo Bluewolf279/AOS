@@ -16,3 +16,4 @@ logs/fml-client-latest.log
 *.log
 dir_to_ignore/saves
 dir_to_ignore/logs
+usernamecache.json
