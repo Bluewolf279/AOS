@@ -16,6 +16,10 @@ public final class ItemRenderRegister {
 		reg(ModItems.Ender_crystal);
 		reg(ModItems.Ender_crystalSword);
 		reg(ModItems.Ender_CrystalPickaxe);
+		reg(ModItems.Ender_CrystalHelmet);
+		reg(ModItems.Ender_CrystalChestpiece);
+		reg(ModItems.Ender_CrystalLeggings);
+		reg(ModItems.Ender_CrystalBoots);
 	}
 
 	public static void reg(Item item) {
