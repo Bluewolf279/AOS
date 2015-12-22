@@ -1,6 +1,6 @@
-package com.TRIUMPH.AOS.items;
+package com.TRIUMPH.aos.items;
 
-import com.TRIUMPH.AOS.unLocalizedNames;
+import com.TRIUMPH.aos.unLocalizedNames;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
@@ -9,7 +9,7 @@ import net.minecraftforge.common.util.EnumHelper;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class ModItems {
-	public static final CreativeTabs AOStab = new CreativeTabs("AOS") {
+	public static final CreativeTabs AOStab = new CreativeTabs("aos") {
 		@Override
 		public Item getTabIconItem() {
 			return Ender_crystal;
@@ -28,7 +28,7 @@ public class ModItems {
 	public static Item Ender_CrystalBoots;
 
 	public static ToolMaterial EndercrystalTo = EnumHelper.addToolMaterial("Ender_crystalTo", 3, 2000, 10.0F, 3.0F, 15);
-	public static ArmorMaterial EndercrystalAr = EnumHelper.addArmorMaterial(unLocalizedNames.EnderCrystal,"AOS:EndercrystalAr",33,new int[]{3,8,6,3},15);
+	public static ArmorMaterial EndercrystalAr = EnumHelper.addArmorMaterial(unLocalizedNames.EnderCrystal,"aos:EndercrystalAr",33,new int[]{3,8,6,3},15);
 	public static void createItem() {
 		GameRegistry.registerItem(Poison_Arrow	= new BasicItem("Poison Arrow"), "Poison Arrow");
 		GameRegistry.registerItem(Ender_nugget	= new BasicItem(unLocalizedNames.EnderNugget), unLocalizedNames.EnderNugget);

@@ -1,4 +1,4 @@
-package com.TRIUMPH.AOS;
+package com.TRIUMPH.aos;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -12,14 +12,14 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 //TODO ADD LIQUID TNT
 //TODO ADD BABY DOG THAT TURNS INTO A CREEPER WHEN HURT
 public class Main {
-	public static final String MODID = "AOS";
-	public static final String MODNAME = "AOS Mod";
+	public static final String MODID = "aos";
+	public static final String MODNAME = "aos Mod";
 	public static final String VERSION = "0.1";
 
 	@Instance
 	public static Main instance = new Main();
 
-	@SidedProxy(clientSide="com.TRIUMPH.AOS.ClientProxy", serverSide="com.TRIUMPH.AOS.ServerProxy")
+	@SidedProxy(clientSide="com.TRIUMPH.aos.ClientProxy", serverSide="com.TRIUMPH.aos.ServerProxy")
 	public static CommonProxy proxy;
 
 	@EventHandler

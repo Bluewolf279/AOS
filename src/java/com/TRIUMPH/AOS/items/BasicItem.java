@@ -1,7 +1,6 @@
-package com.TRIUMPH.AOS.items;
+package com.TRIUMPH.aos.items;
 
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.*;
 
 public class BasicItem extends Item{
 

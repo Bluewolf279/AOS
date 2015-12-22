@@ -1,8 +1,8 @@
-package com.TRIUMPH.AOS.world;
+package com.TRIUMPH.aos.world;
 
 import java.util.Random;
 
-import com.TRIUMPH.AOS.blocks.ModBlocks;
+import com.TRIUMPH.aos.blocks.ModBlocks;
 
 import net.minecraft.util.BlockPos;
 import net.minecraft.world.World;

@@ -1,4 +1,4 @@
-package com.TRIUMPH.AOS.blocks;
+package com.TRIUMPH.aos.blocks;
 //TODO FINISH OREBLOCK CONSTRUCTOR
 // Warning this class is not complete using this will Break the Mod!!!!
 public class OreBlock /*extends Block*/{

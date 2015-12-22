@@ -1,6 +1,6 @@
-package com.TRIUMPH.AOS.blocks;
+package com.TRIUMPH.aos.blocks;
 
-import com.TRIUMPH.AOS.unLocalizedNames;
+import com.TRIUMPH.aos.unLocalizedNames;
 import net.minecraft.block.Block;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 

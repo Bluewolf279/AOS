@@ -1,9 +1,8 @@
-package com.TRIUMPH.AOS.blocks;
+package com.TRIUMPH.aos.blocks;
 
-import com.TRIUMPH.AOS.items.ModItems;
+import com.TRIUMPH.aos.items.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
-import net.minecraft.creativetab.CreativeTabs;
 
 public class BasicBlock extends Block {
 

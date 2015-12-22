@@ -1,7 +1,7 @@
-package com.TRIUMPH.AOS.client.render.blocks;
+package com.TRIUMPH.aos.client.render.blocks;
 
-import com.TRIUMPH.AOS.Main;
-import com.TRIUMPH.AOS.blocks.ModBlocks;
+import com.TRIUMPH.aos.Main;
+import com.TRIUMPH.aos.blocks.ModBlocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;

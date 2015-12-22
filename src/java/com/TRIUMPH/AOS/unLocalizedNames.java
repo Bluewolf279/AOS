@@ -1,4 +1,4 @@
-package com.TRIUMPH.AOS;
+package com.TRIUMPH.aos;
 
 /**
  * Created by Bluewolf on 22/12/2015.

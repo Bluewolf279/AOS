@@ -1,6 +1,6 @@
-package com.TRIUMPH.AOS.client.render.items;
+package com.TRIUMPH.aos.client.render.items;
 
-import com.TRIUMPH.AOS.items.ModItems;
+import com.TRIUMPH.aos.items.ModItems;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelResourceLocation;

@@ -1,9 +1,9 @@
-package com.TRIUMPH.AOS;
+package com.TRIUMPH.aos;
 
-import com.TRIUMPH.AOS.blocks.ModBlocks;
-import com.TRIUMPH.AOS.crafting.ModCrafting;
-import com.TRIUMPH.AOS.items.ModItems;
-import com.TRIUMPH.AOS.world.AOSWorldGen;
+import com.TRIUMPH.aos.blocks.ModBlocks;
+import com.TRIUMPH.aos.crafting.ModCrafting;
+import com.TRIUMPH.aos.items.ModItems;
+import com.TRIUMPH.aos.world.AOSWorldGen;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;

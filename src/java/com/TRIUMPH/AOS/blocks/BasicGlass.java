@@ -1,11 +1,10 @@
-package com.TRIUMPH.AOS.blocks;
+package com.TRIUMPH.aos.blocks;
 
 import java.util.Random;
 
-import com.TRIUMPH.AOS.items.ModItems;
+import com.TRIUMPH.aos.items.ModItems;
 import net.minecraft.block.BlockGlass;
 import net.minecraft.block.material.Material;
-import net.minecraft.creativetab.CreativeTabs;
 
 public class BasicGlass extends BlockGlass {
 	private static boolean ignoreSimilarity;

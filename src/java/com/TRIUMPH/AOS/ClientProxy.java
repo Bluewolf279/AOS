@@ -1,9 +1,9 @@
-package com.TRIUMPH.AOS;
+package com.TRIUMPH.aos;
 
 
-import com.TRIUMPH.AOS.client.render.blocks.BlockRenderRegister;
+import com.TRIUMPH.aos.client.render.blocks.BlockRenderRegister;
 
-import com.TRIUMPH.AOS.client.render.items.ItemRenderRegister;
+import com.TRIUMPH.aos.client.render.items.ItemRenderRegister;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;

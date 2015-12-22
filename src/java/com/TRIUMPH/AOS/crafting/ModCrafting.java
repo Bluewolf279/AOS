@@ -1,11 +1,10 @@
-package com.TRIUMPH.AOS.crafting;
+package com.TRIUMPH.aos.crafting;
 
-import com.TRIUMPH.AOS.blocks.ModBlocks;
-import com.TRIUMPH.AOS.items.ModItems;
+import com.TRIUMPH.aos.blocks.ModBlocks;
+import com.TRIUMPH.aos.items.ModItems;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
