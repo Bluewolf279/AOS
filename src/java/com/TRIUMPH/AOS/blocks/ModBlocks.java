@@ -1,6 +1,6 @@
 package com.TRIUMPH.AOS.blocks;
 
-import com.TRIUMPH.AOS.unlocalizedNames;
+import com.TRIUMPH.AOS.unLocalizedNames;
 import net.minecraft.block.Block;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
@@ -14,12 +14,12 @@ public class ModBlocks {
 	public static Block roughGreenstone;
 	public static Block EnderGreenGlass;
 	public static void createBlock(){
-		GameRegistry.registerBlock(BlueGlass = new BasicGlass(unlocalizedNames.BlueGlass), unlocalizedNames.BlueGlass);
-		GameRegistry.registerBlock(EnderNuggetOre = new BasicBlock(unlocalizedNames.EnderCrystalOre), unlocalizedNames.EnderCrystalOre);
-		GameRegistry.registerBlock(GreenStone = new BasicBlock(unlocalizedNames.GreenStone), unlocalizedNames.GreenStone);
-		GameRegistry.registerBlock(smGreenstone = new BasicBlock(unlocalizedNames.SmoothGreenStone), unlocalizedNames.SmoothGreenStone);
-		GameRegistry.registerBlock(GreenStone_Brick = new BasicBlock(unlocalizedNames.BrickGreenStone), unlocalizedNames.BrickGreenStone);
-		GameRegistry.registerBlock(roughGreenstone = new BasicBlock(unlocalizedNames.RoughGreenStone), unlocalizedNames.RoughGreenStone);
-		GameRegistry.registerBlock(EnderGreenGlass = new BasicGlass(unlocalizedNames.EnderGreenGlass), unlocalizedNames.EnderGreenGlass);
+		GameRegistry.registerBlock(BlueGlass = new BasicGlass(unLocalizedNames.BlueGlass), unLocalizedNames.BlueGlass);
+		GameRegistry.registerBlock(EnderNuggetOre = new BasicBlock(unLocalizedNames.EnderCrystalOre), unLocalizedNames.EnderCrystalOre);
+		GameRegistry.registerBlock(GreenStone = new BasicBlock(unLocalizedNames.GreenStone), unLocalizedNames.GreenStone);
+		GameRegistry.registerBlock(smGreenstone = new BasicBlock(unLocalizedNames.SmoothGreenStone), unLocalizedNames.SmoothGreenStone);
+		GameRegistry.registerBlock(GreenStone_Brick = new BasicBlock(unLocalizedNames.BrickGreenStone), unLocalizedNames.BrickGreenStone);
+		GameRegistry.registerBlock(roughGreenstone = new BasicBlock(unLocalizedNames.RoughGreenStone), unLocalizedNames.RoughGreenStone);
+		GameRegistry.registerBlock(EnderGreenGlass = new BasicGlass(unLocalizedNames.EnderGreenGlass), unLocalizedNames.EnderGreenGlass);
 	}
 }

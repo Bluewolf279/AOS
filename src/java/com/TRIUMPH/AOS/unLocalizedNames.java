@@ -4,7 +4,7 @@ package com.TRIUMPH.AOS;
  * Created by Bluewolf on 22/12/2015.
  * Put Unlocalized names here
  */
-public class unlocalizedNames {
+public class unLocalizedNames {
     //Items
     public static final String EnderNugget = "Ender_nugget";
     public static final String EnderCrystal = "Ender_crystal";
