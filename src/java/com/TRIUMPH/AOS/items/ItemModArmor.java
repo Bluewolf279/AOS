@@ -11,5 +11,7 @@ public class ItemModArmor extends ItemArmor{
         super(material, renderIndex, armorType);
         this.setUnlocalizedName(unlocalisedName);
         this.setCreativeTab(ModItems.AOStab);
+        this.setMaxStackSize(1);
     }
+
 }

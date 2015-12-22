@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:12
+renderDistance:6
 guiScale:0
 particles:0
 bobView:true
@@ -11,8 +11,8 @@ anaglyph3d:false
 maxFps:120
 fboEnable:true
 difficulty:2
-fancyGraphics:true
-ao:2
+fancyGraphics:false
+ao:1
 renderClouds:true
 resourcePacks:[]
 lastServer:
@@ -24,7 +24,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 useVbo:false
 hideServerAddress:false
 advancedItemTooltips:false
@@ -38,7 +38,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 showInventoryAchievementHint:false
-mipmapLevels:4
+mipmapLevels:2
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
 streamSystemVolume:1.0

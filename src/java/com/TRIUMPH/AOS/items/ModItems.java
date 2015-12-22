@@ -36,9 +36,9 @@ public class ModItems {
 		GameRegistry.registerItem(Ender_crystalSword = new ItemModSword("Ender_crystalSword",EndercrystalTo), "Ender_crystalSword");
 		GameRegistry.registerItem(Ender_CrystalPickaxe = new ItemModPickaxe("Ender_CrystalPickaxe",EndercrystalTo), "Ender_CrystalPickaxe");
 
-		GameRegistry.registerItem(Ender_CrystalHelmet = new ItemModArmor("Ender_CrystalHelmet",EndercrystalAr,1,0),"Ender_CrystalHelmet");
-		GameRegistry.registerItem(Ender_CrystalChestpiece = new ItemModArmor("Ender_CrystalChestpiece",EndercrystalAr,1,1),"Ender_CrystalChestpiece");
-		GameRegistry.registerItem(Ender_CrystalLeggings = new ItemModArmor("Ender_CrystalLeggings",EndercrystalAr,2,2),"Ender_CrystalLeggings");
-		GameRegistry.registerItem(Ender_CrystalBoots = new ItemModArmor("Ender_CrystalBoots",EndercrystalAr,1,3),"Ender_CrystalBoots");
+		GameRegistry.registerItem(Ender_CrystalHelmet = new ItemModEnderArmor("Ender_CrystalHelmet",EndercrystalAr,1,0),"Ender_CrystalHelmet");
+		GameRegistry.registerItem(Ender_CrystalChestpiece = new ItemModEnderArmor("Ender_CrystalChestpiece",EndercrystalAr,1,1),"Ender_CrystalChestpiece");
+		GameRegistry.registerItem(Ender_CrystalLeggings = new ItemModEnderArmor("Ender_CrystalLeggings",EndercrystalAr,2,2),"Ender_CrystalLeggings");
+		GameRegistry.registerItem(Ender_CrystalBoots = new ItemModEnderArmor("Ender_CrystalBoots",EndercrystalAr,1,3),"Ender_CrystalBoots");
 	}
 }
