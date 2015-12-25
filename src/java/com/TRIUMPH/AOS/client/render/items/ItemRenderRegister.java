@@ -20,6 +20,14 @@ public final class ItemRenderRegister {
 		reg(ModItems.Ender_CrystalChestpiece);
 		reg(ModItems.Ender_CrystalLeggings);
 		reg(ModItems.Ender_CrystalBoots);
+		reg(ModItems.Obsidian_Crystal);
+		reg(ModItems.Obsidian_Crystal_Clump);
+		reg(ModItems.Obsidian_Crystal_Pickaxe);
+		reg(ModItems.Obsidian_Crystal_Sword);
+		reg(ModItems.Obsidian_Crystal_Helmet);
+		reg(ModItems.Obsidian_Crystal_Chestplate);
+		reg(ModItems.Obsidian_Crystal_Leggings);
+		reg(ModItems.Obsidian_Crystal_Boots);
 	}
 
 	public static void reg(Item item) {

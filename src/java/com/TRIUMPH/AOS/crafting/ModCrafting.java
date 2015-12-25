@@ -16,6 +16,10 @@ public class ModCrafting {
 		GameRegistry.addRecipe(new ItemStack(ModItems.Ender_crystal),"###","###","###",'#',ModItems.Ender_nugget);
 		GameRegistry.addRecipe(new ItemStack(ModItems.Ender_CrystalPickaxe),"###"," % "," % ",'#',ModItems.Ender_crystal,'%', Items.stick);
 		GameRegistry.addRecipe(new ItemStack(ModItems.Ender_crystalSword)," # "," # "," % ",'#',ModItems.Ender_crystal,'%',Items.stick);
+		GameRegistry.addRecipe(new ItemStack(ModItems.Obsidian_Crystal_Clump),"%#%","#%#","%#%",'%',Items.coal, '#', Blocks.obsidian);
+		GameRegistry.addRecipe(new ItemStack(ModItems.Obsidian_Crystal)," # ","#%#"," # ",'#',ModItems.Obsidian_Crystal_Clump,'%',Items.gold_ingot);
+		GameRegistry.addRecipe(new ItemStack(ModItems.Obsidian_Crystal_Pickaxe),"###"," % "," % ",'#',ModItems.Obsidian_Crystal,'%',Items.stick);
+		GameRegistry.addRecipe(new ItemStack(ModItems.Obsidian_Crystal_Sword)," # "," # ", " % ",'#',ModItems.Obsidian_Crystal,'%',Items.stick);
 
 		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.roughGreenstone,1),ModBlocks.GreenStone);
 		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.GreenStone,1),ModBlocks.smGreenstone);

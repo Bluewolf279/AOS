@@ -21,6 +21,7 @@ public class BlockRenderRegister {
 		registerBasic(ModBlocks.roughGreenstone);
 		registerBasic(ModBlocks.EnderGreenGlass);
 		registerBasic(ModBlocks.GreenStone_Brick);
+		registerBasic(ModBlocks.InfernoGlass);
 	}
 	
 	public static void registerBasic(Block block) {

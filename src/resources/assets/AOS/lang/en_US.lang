@@ -23,6 +23,10 @@ item.Ender_CrystalHelmet.name=Ender Crystal Helmet
 item.Ender_CrystalChestpiece.name=Ender Crystal Chestplate
 item.Ender_CrystalLeggings.name=Ender Crystal Leggings
 item.Ender_CrystalBoots.name=Ender Crystal Boots
+item.Obsidian_Crystal_Clump.name=Obsidian Crystal Clump
+item.Obsidian_Crystal.name=Obsidian Crystal
+item.Obsidian_Crystal_Pickaxe.name=Obsidian Crystal Pickaxe
+item.Obsidian_Crystal_Sword.name=Obsidian Crystal Sword
 
 
 itemGroup.AOS=AOS!
